@@ -1,4 +1,4 @@
-Simple random 2ch.hk webm getter in different languages
+## Description
 
 This is a simple script collection to learn new languages on same sample constructions doing the same task.\
 The algorithm is simple: get JSON with threads named "WEBM*", collect urls to webm files and play either random link or temporary playlist of all links in your favorite player.
