@@ -8,4 +8,6 @@ The algorithm is simple: get JSON with threads named "WEBM*", collect urls to we
 `./random_webm.<ext> [-b <board>] [-p]`\
 \
 `-b`: Specify board to get webms from. /a/ by default.\
-`-p`: Playlist mode, start a playlist of all webms found.
+`-p`: Playlist mode, start a playlist of all webms found.\
+\
+You might also want to change your player path/arguments, if you're on Windows; the default player is mpv (Linux).
